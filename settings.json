@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "SimpleAnachry.aternos.me:42033",
+    "port": 42033,
     "version": "",
     "try-creative": false
   },
